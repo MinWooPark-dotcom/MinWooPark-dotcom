@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Calming signal](https://github.com/MinWooPark-dotcom/calming-signal-server)
 
-- 🌱 I’m currently learning **Node.js, MySQL, AWS, Redux, Numpy, and Pandas.**
+- 🌱 I’m currently learning **Node.js, MySQL, AWS, Redux, Python, Numpy, and Pandas.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MinWooPark-dotcom/my-projects](https://github.com/MinWooPark-dotcom/my-projects)
+- 👨‍💻 All of my projects are available at [my-projects repository](https://github.com/MinWooPark-dotcom/my-projects)
 
-- 📝 I regularly write articles on [https://velog.io/@qmasem](https://velog.io/@qmasem)
+- 📝 I regularly write articles on [my velog](https://velog.io/@qmasem)
 
 - 📫 How to reach me **positive1attraction@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3lXNAIq](https://bit.ly/3lXNAIq)
+- 📄 Know about my experiences [Minwoo's Notion](https://bit.ly/3lXNAIq)
 
 
 <h3 align="left">Languages and Tools:</h3>
