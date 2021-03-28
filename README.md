@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my-projects repository](https://github.com/MinWooPark-dotcom/my-projects)
 
-- 📝 I regularly write articles on [my velog](https://velog.io/@qmasem)
+- 📝 I regularly write articles on [my velog 'qmasem'](https://velog.io/@qmasem)
 
 - 📫 How to reach me **positive1attraction@gmail.com**
 
