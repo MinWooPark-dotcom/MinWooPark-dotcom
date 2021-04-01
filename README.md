@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Calming signal](https://github.com/MinWooPark-dotcom/calming-signal-server)
 
-- 🌱 I’m currently learning **Node.js, MySQL, AWS, Redux, Python, Numpy, and Pandas.**
+- 🌱 I’m currently learning **Node.js, MySQL, AWS, Redux, Python
 
 - 👨‍💻 All of my projects are available at [my-projects repository](https://github.com/MinWooPark-dotcom/my-projects)
 
