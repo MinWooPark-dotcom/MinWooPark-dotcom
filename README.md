@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Calming signal](https://github.com/MinWooPark-dotcom/calming-signal-server)
 
-- 🌱 I’m currently learning **Node.js, Express, PostgreSQL, Redis, Sequelize, AWS, **
+- 🌱 I’m currently learning **Node.js, Express, PostgreSQL, Redis, Sequelize, AWS**
 
 - 👨‍💻 All of my projects are available at [my-projects repository](https://github.com/MinWooPark-dotcom/my-projects)
 
