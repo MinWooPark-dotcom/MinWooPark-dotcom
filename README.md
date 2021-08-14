@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minwoo Park</h1>
+<h1 align="center">Hi 👋, I'm Park Minwoo </h1>
 <h3 align="center">I'm a back-end developer who loves the moment when I turn a question mark into an exclamation mark.</h3>
 
 - 👨‍💻 All of my projects are available at [my-projects repository](https://github.com/MinWooPark-dotcom/my-projects)
