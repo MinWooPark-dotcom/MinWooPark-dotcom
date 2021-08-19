@@ -9,8 +9,11 @@
 
 - 📄 Know about my experiences [Minwoo's Notion](https://bit.ly/3lXNAIq)
 
+<h3 align="left">Education</h3>
+<!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
+<img src="https://img.shields.io/badge/Korea_National_Open_University-Computer_Science_(current)-blue?style=flat-square"/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <!-- <img src="https://img.shields.io/badge/뱃지 이름-뱃지 색상?style=flat-square&logo=Express&logoColor=로고 색상"/> -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -27,3 +30,8 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amanzon AWS&logoColor=white"/>
  </p>
+
+### GitHub Stats
+[![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinwooPark-dotcom)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinwooPark-dotcom&?hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
