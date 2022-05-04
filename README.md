@@ -35,7 +35,8 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
  </p>
 
-### GitHub Stats
+<!-- ### GitHub Stats
 [![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinwooPark-dotcom)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinwooPark-dotcom&hide=jupyter%20notebook,css,html&exclude_repo=tensorflow1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
