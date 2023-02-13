@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Park Minwoo </h1>
-<h3 align="center">I'm a back-end developer who loves the moment when I turn a question mark into an exclamation mark.</h3>
+<h3 align="left">I'm a back-end developer who loves the moment when I turn a question mark into an exclamation mark.</h3>
 
 - 👨‍💻 All of my projects are available at [my-projects repository](https://github.com/MinWooPark-dotcom/my-projects)
 
@@ -8,6 +8,12 @@
 - 📫 How to reach me **positive1attraction@gmail.com**
 
 - 📄 Know about my experiences [Minwoo's Notion](https://bit.ly/3lXNAIq)
+
+<h3 aling="left">GitHub Stats</h3>
+
+[![Minwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinwooPark-dotcom)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinwooPark-dotcom&hide=jupyter%20notebook,css,html&exclude_repo=tensorflow1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Education</h3>
 <!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
