@@ -9,6 +9,6 @@
 - Traum infotech - 백엔드 개발자 (2021. 05 ~ 2021. 08)
 
 ### 교육
-- 이스트캠프 WASSUP AI 모델 개발 10기 (2025. 04 ~ )
-- 한국방송통신대학교 컴퓨터과학과 (2021. 09 ~ )
-- 코드스테이츠 Software Enginerring 24기 (2020. 07 ~ 2021. 02)
+- [이스트캠프](https://estfamily.career.greetinghr.com/home) WASSUP AI 모델 개발 10기 (2025. 04 ~ )
+- [한국방송통신대학교 컴퓨터과학과](https://cs.knou.ac.kr/cs1/index.do?epTicket=LOG) (2021. 09 ~ )
+- [코드스테이츠](https://www.codestates.com/) Software Enginerring 24기 (2020. 07 ~ 2021. 02)
