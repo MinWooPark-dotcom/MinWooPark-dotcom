@@ -9,7 +9,6 @@
 - Traum infotech - 백엔드 개발자 (2021. 05 ~ 2021. 08)
 
 ### 교육
-- [이스트캠프](https://estfamily.career.greetinghr.com/home) WASSUP AI 모델 개발 10기 (2025. 04 ~ )
 - [네트워크 관리사 2급](https://www.icqa.or.kr/cn/page/network) (2025. 04)
 - [리눅스마스터 2급](https://www.ihd.or.kr/introducesubject1.do) (2025. 03)
 - [ILSC Language School Tronto](https://www.ilsc.com/language-schools/destinations/city/toronto) - Intermediate 3 Level (2024. 10 ~ 2024. 12)
