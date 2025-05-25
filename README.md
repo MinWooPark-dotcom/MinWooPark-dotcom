@@ -10,7 +10,7 @@
 
 ### 교육
 - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/) (2025. 05)
-- [네트워크 관리사 2급](https://www.icqa.or.kr/cn/page/network) (2025. 04)
+- [네트워크관리사 2급](https://www.icqa.or.kr/cn/page/network) (2025. 04)
 - [리눅스마스터 2급](https://www.ihd.or.kr/introducesubject1.do) (2025. 03)
 - [ILSC Language School Tronto](https://www.ilsc.com/language-schools/destinations/city/toronto) - Intermediate 3 Level (2024. 10 ~ 2024. 12)
 - [한국방송통신대학교 컴퓨터과학과](https://cs.knou.ac.kr/cs1/index.do?epTicket=LOG) (2021. 09 ~ )
