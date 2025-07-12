@@ -10,6 +10,7 @@
 - Traum infotech - 백엔드 개발자 (2021. 05 ~ 2021. 08)
 
 ### 교육
+- [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) (2025. 07)
 - [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/) (2025. 05)
 - [네트워크관리사 2급](https://www.icqa.or.kr/cn/page/network) (2025. 04)
 - [리눅스마스터 2급](https://www.ihd.or.kr/introducesubject1.do) (2025. 03)
