@@ -10,7 +10,7 @@
 - Traum infotech - 백엔드 개발자 (2021. 05 ~ 2021. 08)
 
 ### 교육
-- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/51753807-ae52-4657-ba3a-a0a302b7a8c4/linked_in_profile) (2025. 07)
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/51753807-ae52-4657-ba3a-a0a302b7a8c4/linked_in_profile) (2025. 07)
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/665d81d6-eae6-4532-ab61-0aa1fdb63678/linked_in_profile) (2025. 05)
 - [네트워크관리사 2급](https://www.icqa.or.kr/cn/page/network) (2025. 04)
 - [리눅스마스터 2급](https://www.ihd.or.kr/introducesubject1.do) (2025. 03)
