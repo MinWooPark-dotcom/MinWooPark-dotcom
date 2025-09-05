@@ -23,6 +23,9 @@
 
 ---
 
+<details> 
+  <summary>In English</summary>
+
 ### About
 - Park Min Woo, a DevOps Engineer.
 - Experienced in Backend Development and DevOps Engineering.
@@ -45,4 +48,6 @@
 - [ILSC Toronto English Language School - Intermediate 3 Level](https://www.ilsc.com/language-schools/destinations/city/toronto) (Oct 2024 ~ Dec 2024)
 - [Korea National Open University (KNOU) Computer Science](https://cs.knou.ac.kr/cs1/index.do?epTicket=LOG) (Sep 2021 ~ )
 - [CodeStates](https://www.codestates.com/) Software Enginerring 24th Class (Jul 2020 ~ Feb 2021)
+</details>
   
+
