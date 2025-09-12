@@ -10,6 +10,7 @@
 - Traum infotech - 백엔드 엔지니어 (2021. 05 ~ 2021. 08)
 
 ### 자격증
+- [정보처리산업기사](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=2290) (2025. 09)
 - [Kubestronaut](https://www.credly.com/badges/e1c23e43-8d49-4acc-8452-31c253fb68b0/public_url) (2025. 09)
 - [CKS: Certified Kubernetes Security Specialist](https://www.credly.com/badges/d2e62bed-6a2d-4684-86d1-73fb142d4ddd/public_url) (2025. 09)
 - [KCSA: Kubernetes and Cloud Native Security Associate](https://www.credly.com/badges/5ca2e126-ecb4-4bf1-bec5-f5ad9c990360/public_url) (2025. 08)
@@ -42,6 +43,7 @@
 - Traum infotech - Back-end Engineer (May 2021 ~ Aug 2021)
 
 ### Certifications
+- [Industrial Engineer Information Processing](https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=2290) (Sep 2025)
 - [Kubestronaut](https://www.credly.com/badges/e1c23e43-8d49-4acc-8452-31c253fb68b0/public_url) (Sep 2025)
 - [CKS: Certified Kubernetes Security Specialist](https://www.credly.com/badges/d2e62bed-6a2d-4684-86d1-73fb142d4ddd/public_url) (Sep 2025)
 - [KCSA: Kubernetes and Cloud Native Security Associate](https://www.credly.com/badges/5ca2e126-ecb4-4bf1-bec5-f5ad9c990360/public_url) (Aug 2025) 
